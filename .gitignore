@@ -29,7 +29,7 @@ migrate_working_dir/
 .idea/
 
 # VSCode related (you can uncomment if you don't want VSCode settings to be included)
-#.vscode/
+.vscode/
 
 # Android related
 /android/app/debug
